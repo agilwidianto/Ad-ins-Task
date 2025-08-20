@@ -40,5 +40,3 @@
    Memberikan laporan komprehensif untuk keperluan perbaikan dan evaluasi kualitas.
 
 ---
-## Lisensi  
-Project ini menggunakan **MIT License**. Silakan digunakan dan modifikasi sesuai kebutuhan.
